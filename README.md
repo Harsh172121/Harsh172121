@@ -1,3 +1,8 @@
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=1000&fontAlignY=500&stroke=-&animation=fadeIn&descSize=20&descAlign=100&descAlignY=100&textBg=false&theme=cobalt"  />
+</div>
+
+###
 # Hi, I'm Harsh Darji 👋
 
 Full-stack developer building AI-powered tools, SaaS products, and open-source projects.
@@ -11,13 +16,16 @@ Full-stack developer building AI-powered tools, SaaS products, and open-source p
 
 ## 🚀 About Me
 
-| | |
+| 🚀 | |
 |---|---|
-| 🔨 **Building** | Full-stack apps, AI tools, SaaS with modern stacks |
-| 🤝 **Open to** | Open-source, startup ideas, AI integrations |
-| 📚 **Learning** | AI Agents · MCP · Next.js · Cloud infra · Backend optimization |
-| 💬 **Ask me about** | React · Node.js · Express · MongoDB · REST APIs · AI tools |
-| ⚡ **Fun fact** | Best way to learn? Build real things and break them. |
+| 💼 **Currently Building** | Scalable Full-Stack Applications, AI-powered products, SaaS platforms, and automation tools with modern technologies |
+| ⚛️ **Frontend Expertise** | React.js Developer focused on creating fast, responsive, and user-friendly web experiences |
+| ☕ **Backend Expertise** | Java Stack Developer building robust REST APIs, enterprise applications, and scalable backend systems |
+| 🤝 **Open to Collaborate** | Open-source projects, innovative startups, AI integrations, and full-stack development opportunities |
+| 📚 **Currently Learning** | AI Agents · Model Context Protocol (MCP) · Next.js · Cloud Infrastructure · System Design · DevOps |
+| 💬 **Ask Me About** | React.js · Java · Spring Boot · Node.js · Express.js · MongoDB · MySQL · REST APIs · AI Tools |
+| 🎯 **Goal** | Building impactful software that solves real-world problems while continuously improving my development skills |
+| ⚡ **Fun Fact** | I believe the fastest way to learn is to build, deploy, break, fix, and ship real projects. |
 
 ---
 
@@ -34,3 +42,8 @@ Full-stack developer building AI-powered tools, SaaS products, and open-source p
 ## ✍️ Dev Philosophy
 
 > *"The best way to learn is by building real projects and continuously experimenting with new technologies."*
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=1000&fontAlignY=500&stroke=-&animation=fadeIn&descSize=20&descAlign=100&descAlignY=100&textBg=false&theme=cobalt"  />
+</div>
+
+###
