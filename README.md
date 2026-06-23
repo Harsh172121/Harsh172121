@@ -42,6 +42,8 @@ Full-stack developer building AI-powered tools, SaaS products, and open-source p
 ## ✍️ Dev Philosophy
 
 > *"The best way to learn is by building real projects and continuously experimenting with new technologies."*
+>
+
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=1000&fontAlignY=500&stroke=-&animation=fadeIn&descSize=20&descAlign=100&descAlignY=100&textBg=false&theme=cobalt"  />
 </div>
